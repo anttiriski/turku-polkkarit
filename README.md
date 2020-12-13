@@ -1,8 +1,8 @@
 # Turun polkupyörät, reaaliaikaisesti!
 
-Turun seudun joukkoliikenteen apia hyödyntäen laitettu asemat ja polkupyörät kartalle.
+Turun seudun joukkoliikenteen [apia](http://data.foli.fi/citybike) hyödyntäen laitettu asemat ja polkupyörät kartalle.
 
-http://data.foli.fi/citybike
+Projektin löydät osoitteesta https://polkkarit.netlify.app/
 
 ## Käyttöönotto
 
