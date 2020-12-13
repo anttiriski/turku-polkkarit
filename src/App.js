@@ -9,7 +9,7 @@ function App() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const result = await axios("http://data.foli.fi/citybike");
+      const result = await axios("https://data.foli.fi/citybike");
       setStations(result.data.racks);
     };
 
